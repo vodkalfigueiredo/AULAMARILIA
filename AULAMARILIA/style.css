@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2f7;
+}
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+}
+h1 {
+    color:bisque
+    text-align: center;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+
+}
