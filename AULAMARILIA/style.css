@@ -10,12 +10,25 @@ body {
     border-radius: 12px;
 }
 h1 {
-    color:bisque
+    color:rgb(57, 4, 247);
     text-align: center;
 }
 input {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
-
+}
+button{
+    padding: 9px;
+    width: 100%;
+    color:#eef2f7;
+    background-color: rgb(42, 97, 218);
+    margin-top: 20px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+label{
+    display: block;
+    margin-top: 14px;
+    font-weight: bold;
 }
